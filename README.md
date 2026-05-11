@@ -1,49 +1,55 @@
-# Arrays in Java – DSA Practice (Basics + LeetCode) 🚀
+# Java DSA Practice 🚀
 
-This repository contains my focused practice on **Arrays** in Data Structures and Algorithms (DSA) using Java.
+This repository contains my practice and learning journey in Data Structures and Algorithms (DSA) using Java.
 
-It includes both:
-
-* Fundamental concept building (Basics)
-* Platform-based problem solving (LeetCode)
+It includes:
+- Core concept building
+- Problem-solving practice
+- Pattern-based learning
+- Algorithmic thinking and optimization
 
 ---
 
 ## 📌 Structure
 
-Arrays/
+DSA/
 
-* Basics → Core concepts and beginner-friendly problems
-* LeetCode → Practice problems from LeetCode
+- Arrays → Array problems, searching techniques, sliding window concepts, and more
+- More topics will be added as I progress further in DSA
 
 ---
 
 ## 🎯 Goal
 
-To build a strong foundation in Arrays and improve problem-solving skills through consistent practice.
+To build strong problem-solving skills and develop a solid understanding of DSA through consistent coding practice.
 
 ---
 
 ## 📅 Progress
 
-* Started: 2026
-* Maintaining regular practice and uploads
+- Started: 2026
+- Regularly updating solutions, notes, and optimized approaches
 
 ---
 
 ## 🧠 Topics Covered
 
-* Linear Search
-* Array Traversal
-* Finding Maximum/Minimum
-* (More will be added as I progress)
+- Linear Search
+- Binary Search
+- Array Traversal
+- Two Pointers
+- Sliding Window
+- Finding Maximum/Minimum
+- Peak Element Problems
+- Occurrence-Based Binary Search
+- More topics will be added gradually
 
 ---
 
 ## ⚡ Note
 
-This is part of my DSA journey, and the repository will grow over time with more problems and optimized solutions.
+This repository is a part of my long-term DSA journey and will continue to evolve with better solutions, optimizations, and new concepts over time.
 
 ---
 
-"Consistency > Perfection"
+"Build logic. Stay consistent. Improve daily."
