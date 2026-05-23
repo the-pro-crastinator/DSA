@@ -18,7 +18,7 @@ class Main {
                 System.out.println("Found at index " + i);
                 flag = true;
                 break;
-                // Alternative cleaner approach: use return instead of flag
+                // Alternative cleaner approach: use return instead of flag.
             }
         }
         if(!flag){
